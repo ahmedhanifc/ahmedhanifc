@@ -6,7 +6,7 @@ I'm a passionate Data Science and AI enthusiast currently studying at the Univer
 ### 🚀 What I Do
 - **AI & Machine Learning Development** — Researching and developing predictive models and intelligent systems.
 - **Full-Stack Web Development** — Building secure and efficient web applications.
-- **Technical Writing & Mentorship** — Assisting peers with structured, clear, and impactful technical content.
+- **Teaching** — Assisting peers with structured, clear, and impactful technical content.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedhanifc) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmedhanifc@gmail.com) 
