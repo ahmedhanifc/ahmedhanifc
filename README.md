@@ -4,7 +4,8 @@
 I'm a passionate Data Science and AI enthusiast currently studying at the University of Doha for Science and Technology. My experience spans teaching, technical writing, machine learning research, and software development. I love creating projects that leverage technology to solve real-world problems and improve people's lives.
 
 ### 🚀 What I Do
-- **AI & Machine Learning Development** — Researching and developing predictive models and intelligent systems.
+- **AI & Machine Learning Development** — Developing predictive models and intelligent systems.
+- **Machine Learning Reseach** -- Currently Researching ML in mental health and student classification models.
 - **Full-Stack Web Development** — Building secure and efficient web applications.
 - **Teaching** — Assisting peers with structured, clear, and impactful technical content.
 
