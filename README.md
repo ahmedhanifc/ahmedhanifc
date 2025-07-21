@@ -17,27 +17,15 @@ I’m a passionate Data Science and AI enthusiast studying at the University of 
 - [LinkedIn](https://linkedin.com/in/ahmedhanifc)  
 - [Email](mailto:ahmedhanifc@gmail.com)  
 
-## Tech Stack
-- JavaScript  
-- Python  
-- Java  
-- Windows Terminal  
-- Bash Script  
-- Express.js  
-- Node.js  
-- Anaconda  
-- Matplotlib  
-- NumPy  
-- Pandas  
-- PyTorch  
-- SciPy  
-- scikit-learn  
-- TensorFlow  
-- MySQL  
-- MongoDB  
-- Apache  
-- Git & GitHub  
+## Skills
+- **Languages:** C, Python, Java, JavaScript, HTML/CSS, React Native  
+- **Machine Learning:** Scikit-learn, PyTorch, statsmodels, Transformers, RAG, LSTM, RNN, Reinforcement Learning (Policy Gradient, REINFORCE)  
+- **Data Analysis:** Pandas, NumPy, Seaborn, Matplotlib, Regex, Power BI, AROMA, S-AROMA  
+- **Databases:** SQL, MongoDB, Redis  
+- **Web Development:** Node.js, Express.js, Handlebars, REST APIs  
+- **Tools:** Git, MPI4PY, Celery, RabbitMQ  
 
+  
 ## Key Projects
 - [Full-Stack Language Exchange Application](https://github.com/ahmedhanifc/Language-Exchange)  
 - [Breast Cancer Data Analysis](https://github.com/ahmedhanifc/Assignment/blob/main/60301085_assignment_final.ipynb)  
