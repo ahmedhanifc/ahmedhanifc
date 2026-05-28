@@ -14,6 +14,7 @@ I’m a passionate Data Science and AI enthusiast studying at the University of 
   Assisting peers with structured, clear, and impactful technical content  
 
 ## Socials
+- [Personal Website](https://ahmedhanif.com)
 - [LinkedIn](https://linkedin.com/in/ahmedhanifc)  
 - [Email](mailto:ahmedhanifc@gmail.com)  
 
